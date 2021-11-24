@@ -1,4 +1,4 @@
-package com.wpax.builder;
+package com.wpax.service.builder;
 
 import com.wpax.util.ClassBuilderUtil;
 import com.wpax.util.ConvertObjectUtil;

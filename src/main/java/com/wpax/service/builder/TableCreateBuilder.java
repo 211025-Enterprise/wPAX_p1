@@ -1,4 +1,4 @@
-package com.wpax.builder;
+package com.wpax.service.builder;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Type;
